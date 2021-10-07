@@ -5,9 +5,9 @@
 - 📫 meu e-mail para contato: lucasbryan0217@gmail.com
 
 <div>
-  <a href="https://github.com/Lucas-Omega">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Omega&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Omega&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/lucasdutradev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdutradev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdutradev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
