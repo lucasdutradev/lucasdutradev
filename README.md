@@ -1,4 +1,4 @@
-<h1 align="center">Olá meu nome e Lucas 😁</h1> 
+<h1 align="center">Olá meu nome é Lucas 😁</h1> 
 
 - 🔭 Atualmente trabalhando com Front-End
 - 👀 Estou estudando React, nodejs
