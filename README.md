@@ -1,3 +1,4 @@
+![9bc27292880429 5e569ff84e4d0](https://user-images.githubusercontent.com/64993298/145716766-73b6bd2b-dc36-4b0a-b149-488e4d06c5c6.gif)
 <h1 align="center">Olá meu nome é Lucas 😁</h1> 
 
 - 🔭 Atualmente trabalhando com Front-End
