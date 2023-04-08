@@ -3,12 +3,14 @@
 
 - 🔭 Atualmente trabalhando como Tech Lead - FullStack .NET C#|ReactJS
 - 📫 meu e-mail para contato: lucasbryan0217@gmail.com
-- Meu CodeWars<img src="https://www.codewars.com/users/Lucas-dev/badges/small">
+</br>
+<div align="center">
+<img src="https://www.codewars.com/users/Lucas-dev/badges/small">
+</div>
 
 <div align="center">
   <a href="https://github.com/lucasdutradev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasdutradev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdutradev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
