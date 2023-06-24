@@ -1,8 +1,8 @@
 ![9bc27292880429 5e569ff84e4d0](https://user-images.githubusercontent.com/64993298/145716766-73b6bd2b-dc36-4b0a-b149-488e4d06c5c6.gif)
-<h1 align="center">Olá meu nome é Lucas 😁</h1> 
+<h1 align="center">Hi my name is Lucas 😁</h1> 
 
-- 🔭 Atualmente trabalhando como Tech Lead - FullStack .NET C#|ReactJS
-- 📫 meu e-mail para contato: lucasbryan0217@gmail.com
+- 🔭 Currently working as Tech Lead - FullStack .NET C#|ReactJS
+- 📫 my contact e-mail: lucasbryan0217@gmail.com
 </br>
 <div align="center">
 <img src="https://www.codewars.com/users/Lucas-dev/badges/small">
@@ -21,7 +21,7 @@
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-<h2 align="center">Contatos 🐱‍👤</h2>
+<h2 align="center">Contacts 🐱‍👤</h2>
   
 <div align="center">
     <a href="https://www.linkedin.com/in/lucas-dutra-b281491b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
