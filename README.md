@@ -43,8 +43,12 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lucasdutradev&theme=merko)](https://git.io/streak-stats)
-![lucasdutradev's github stats](https://github-readme-stats.vercel.app/api?username=lucasdutradev)
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=lucasdutradev&theme=merko)](https://git.io/streak-stats)
+  
+</div>
+
 
 
 
