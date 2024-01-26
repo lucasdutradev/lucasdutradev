@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Lucas! 😁</h1> 
 
 <p align="center">
-  Welcome to my GitHub profile. I'm a BackEnd Developer passionate about tecnology, i´m work with .NET C# and ASP.NET Core.
+  Welcome to my GitHub profile. I'm a BackEnd Developer passionate about tecnology, i´m work with .NET C#.
 </p>
 
 <p align="center">
