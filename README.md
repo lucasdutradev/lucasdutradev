@@ -41,17 +41,6 @@
 
 
 
-<h2 align="center">GitHub Stats</h2>
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=lucasdutradev&theme=merko)](https://git.io/streak-stats)
-  
-</div>
-
-
-
-
 <h2 align="center">Connect with Me 🐱‍👤</h2>
 
 <p align="center">
